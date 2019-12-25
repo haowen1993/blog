@@ -17,11 +17,11 @@ enable_jsdelivr = {
 site_name = "我的个人博客"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
-author = "熊猫小A"
-email = "hi@imalan.cn"
-author_homepage = "https://www.imalan.cn"
-description = "只坚持一种正义。我的正义。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+author = "haowen"
+email = "haowen1993@icloud.com"
+author_homepage = "https://haowen1993@icloud.com"
+description = "偶尔会突发奇想。"
+key_words = ['Maverick', 'haowen', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
@@ -55,18 +55,13 @@ nav = [
 
 social_links = [
     {
-        "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
-        "icon": "gi gi-twitter"
-    },
-    {
-        "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
-        "icon": "gi gi-github"
+        "name": "Instagram",
+        "url": "https://www.instagram.com/haowen1993.ins",
+        "icon": "gi gi-instagram"
     },
     {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "https://weibo.com/5071593609/",
         "icon": "gi gi-weibo"
     }
 ]
