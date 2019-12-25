@@ -3,14 +3,14 @@
 """
 
 # For Maverick
-site_prefix = "/"
+site_prefix = "/blog/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "haowen1993/haowen1993.github.io@gh-pages"
+    "repo": "haowen1993/blog@gh-pages"
 }
 
 # 站点设置
